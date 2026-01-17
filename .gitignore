@@ -1,0 +1,16 @@
+output_files/
+db/
+incremental_db/
+simulation/
+work/
+
+*.log
+*.tmp
+*.bak
+*.jou
+*.wlf
+*.bak
+
+
+.DS_Store
+Thumbs.db
